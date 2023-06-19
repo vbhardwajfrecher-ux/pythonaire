@@ -375,7 +375,7 @@ else:
 # This is just one example of a test case for API testing, 
 # and there can be many more test cases to cover different scenarios and edge cases.
 
-#################### CODE for Pay-Out API ########################
+#################### API Testig ########################
 
 1. Integration testing: 
     This involves testing the interactions between different components of the payout system, 
