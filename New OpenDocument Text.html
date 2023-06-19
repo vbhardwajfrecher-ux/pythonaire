@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Dashboard Report</title>
+	
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			font-family: Arial, sans-serif;
+			background-color: #f0f0f0;
+		}
+		
+		.header {
+			background-color: #003366;
+			color: #fff;
+			padding: 10px;
+			text-align: center;
+			font-size: 24px;
+			font-weight: bold;
+		}
+		
+		.container {
+			margin: 20px auto;
+			max-width: 800px;
+			background-color: #fff;
+			border-radius: 5px;
+			box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+			padding: 20px;
+		}
+		
+		.table {
+			border-collapse: collapse;
+			width: 100%;
+			margin-top: 20px;
+			margin-bottom: 20px;
+		}
+		
+		.table th, .table td {
+			padding: 10px;
+			border: 1px solid #ccc;
+			text-align: center;
+			font-size: 16px;
+		}
+		
+		.table th {
+			background-color: #003366;
+			color: #fff;
+			font-weight: bold;
+		}
+		
+		.table td.red {
+			color: red;
+			font-weight: bold;
+		}
+		
+		.footer {
+			background-color: #003366;
+			color: #fff;
+			padding: 10px;
+			text-align: center;
+			font-size: 14px;
+			font-weight: bold;
+			position: fixed;
+			bottom: 0;
+			width: 100%;
+		}
+		
+		@media only screen and (max-width: 600px) {
+			.container {
+				margin: 10px;
+				padding: 10px;
+			}
+			
+			.table th, .table td {
+				font-size: 14px;
+				padding: 5px;
+			}
+			
+			.header {
+				font-size: 20px;
+				padding: 5px;
+			}
+			
+			.footer {
+				font-size: 12px;
+				padding: 5px;
+			}
+		}
+	</style>	
+</head>
+<body>
+	<div class="header">Sales Report</div>
+	
+	<div class="container">
+		<h2>Employee Performance Summary</h2>
+		<table class="table">
+			<thead>
+				<tr>
+					<th>Emp ID</th>
+					<th>Date</th>
+					<th>Leads</th>
+					<th>Bookings</th>
+					<th>Total Booking Amount</th>
+					<th>Conversion %</th>
+					<th>ATS</th>
+				</tr>
+			</thead>
+			<tbody>

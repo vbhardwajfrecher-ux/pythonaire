@@ -1,0 +1,54 @@
+/* Global styles */
+/* Styling for the blog */
+body {
+
+  border: none;
+  border-radius: 4px;
+  color: #333;
+  cursor: pointer;
+  display: flex;
+  align-items: right;
+  justify-content: center;
+  padding: 0.5rem;
+  transition: all 0.3s ease;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: black;
+	text-align: center;
+}
+
+input,
+label {
+	margin: 0.4rem 0;
+
+}
+header {
+	position: center;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: black;
+	text-align: center;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+.display-time {
+	display: inline-flex;
+	font-size: 1.8rem;
+	font-weight: bold;
+	transition: ease-in-out 0.1s;
+	transition-property: background, box-shadow, color;
+
+
+.display-time {
+	background: #ffd868;
+	box-shadow: 0 0 30px #ffd868;
+	color: #272727;
+		
+}

@@ -1,0 +1,239 @@
+Week 1: Python Fundamentals and OOPs
+
+Review the basics of Python programming language:
+YouTube: Corey Schafer's Python Programming Tutorials - https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+
+Dive into Object-Oriented Programming (OOP) concepts in Python:
+YouTube: Corey Schafer's Object-Oriented Programming (OOP) - https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+
+Strengthen your understanding of OOP through practical examples:
+Blog: Real Python's Object-Oriented Programming (OOP) in Python 3 - https://realpython.com/python3-object-oriented-programming/
+https://ehmatthes.github.io/pcc/
+
+
+Week 2: Data Structures and Algorithms:
+
+Explore essential data structures in Python, such as lists, tuples, dictionaries, and sets:
+YouTube: CS Dojo's Data Structures and Algorithms - https://www.youtube.com/watch?v=RBSGKlAvoiM
+Understand common data structures like stacks, queues, linked lists, and trees:
+Blog: GeeksforGeeks - Data Structures - https://www.geeksforgeeks.org/data-structures/
+Learn about algorithmic problem-solving and practice:
+Website: LeetCode - Algorithm Problems - https://leetcode.com/problemset/all/
+
+"Problem Solving with Algorithms and Data Structures using Python" by Brad Miller and David Ranum: https://runestone.academy/runestone/books/published/pythonds/index.html
+"Cracking the Coding Interview" by Gayle Laakmann McDowell: https://www.crackingthecodinginterview.com/
+
+
+Week 3: Concurrency and Performance Optimization
+
+Learn about threading and multiprocessing in Python for concurrent execution:
+YouTube: Corey Schafer's Python Threading Tutorial - https://www.youtube.com/watch?v=IEEhzQoKtQU
+Explore performance optimization techniques and profiling tools:
+Blog: Real Python's Speed Up Your Python Code With Cython - https://realpython.com/search?q=cython+speed
+Understand how to utilize caching and memoization for performance improvements:
+Blog: Towards Data Science's Cache Memoization in Python - https://medium.com/search?q=cache+memoization+in+python
+
+"Python Concurrency" by Real Python: https://realpython.com/tutorials/concurrency/
+"Python Requests" library documentation: https://docs.python-requests.org/en/latest/
+Python threading module: https://docs.python.org/3/library/threading.html
+Python multiprocessing module: https://docs.python.org/3/library/multiprocessing.html
+Pandas documentation: https://pandas.pydata.org/docs/
+
+
+Week 4: ETL Pipelines, APIs, Web Development, and Code Improvements
+
+Learn about ETL (Extract, Transform, Load) pipelines for data processing:
+YouTube: Sentdex's ETL with Python - Link
+Explore building RESTful APIs with Python using frameworks like Flask or Django:
+YouTube: Corey Schafer's Flask Tutorials - Link
+Blog: Django for APIs - https://www.django-rest-framework.org/
+Enhance your code quality and maintainability through best practices:
+Blog: Clean Code concepts adapted for Python - https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
+Website: PEP 8 - Style Guide for Python Code - https://peps.python.org/pep-0008/
+
+Flask documentation: https://flask.palletsprojects.com/
+Django documentation: https://docs.djangoproject.com/
+"Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
+https://www.obeythetestinggoat.com/
+https://pragprog.com/titles/bopytest/python-testing-with-pytest/
+
+Week 5: Database Systems
+
+Introduction to Relational Databases and SQL
+Database design principles and normalization
+Practical experience with popular databases like MySQL, PostgreSQL, or SQLite
+Object-Relational Mapping (ORM) frameworks like SQLAlchemy
+
+Introduction to Relational Databases and SQL:
+
+"SQLZoo" (Interactive SQL tutorial): https://sqlzoo.net/
+"W3Schools SQL Tutorial": https://www.w3schools.com/sql/
+Database Design Principles and Normalization:
+
+"Database Design for Mere Mortals" by Michael J. Hernandez: https://www.informit.com/store/database-design-for-mere-mortals-a-hands-on-guide-to-9780321884497
+"Database Normalization Explained in Simple English" (Tutorial): https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/
+Practical Experience with Popular Databases:
+
+MySQL:
+Official MySQL Documentation: https://dev.mysql.com/doc/
+"MySQL Tutorial" by Derek Banas (YouTube): https://www.youtube.com/watch?v=yPu6qV5byu4
+PostgreSQL:
+Official PostgreSQL Documentation: https://www.postgresql.org/docs/
+"PostgreSQL Tutorial for Beginners" by The Net Ninja (YouTube): https://www.youtube.com/watch?v=qw--VYLpxG4
+SQLite:
+Official SQLite Documentation: https://www.sqlite.org/docs.html
+"SQLite Tutorial" by Derek Banas (YouTube): https://www.youtube.com/watch?v=byHcYRpMgI4
+Object-Relational Mapping (ORM) Frameworks:
+
+SQLAlchemy:
+Official SQLAlchemy Documentation: https://docs.sqlalchemy.org/
+"SQLAlchemy Tutorial" by Corey Schafer (YouTube): https://www.youtube.com/watch?v=woKYyhLCcnU
+GitHub Repository: https://github.com/sqlalchemy/sqlalchemy
+
+
+Week 6: Networking and Web APIs
+
+Basics of networking protocols (HTTP, TCP/IP)
+RESTful API principles and best practices
+Integration of third-party APIs
+Authentication and authorization mechanisms (OAuth, JWT)
+
+GitHub Repositories:
+
+Requests (Python Library): https://github.com/psf/requests - A popular Python library for making HTTP requests, providing a high-level interface for working with APIs.
+Django REST Framework: https://github.com/encode/django-rest-framework - A powerful framework for building RESTful APIs with Django, incorporating best practices and authentication mechanisms.
+Authlib: https://github.com/lepture/authlib - A Python library that supports various authentication and authorization mechanisms, including OAuth, JWT, OpenID Connect, and more.
+jose (JavaScript Library): https://github.com/panva/jose - A JavaScript library for working with JSON Web Tokens (JWT), providing utilities for token generation, verification, and encryption.
+Keycloak: https://github.com/keycloak/keycloak - An open-source identity and access management solution that supports authentication, authorization, and single sign-on (SSO) for web applications.
+
+
+Week 7: Asynchronous Programming
+
+Understanding asynchronous programming concepts
+Working with asynchronous frameworks like asyncio
+Utilizing async/await syntax
+Handling concurrent requests and I/O-bound tasks
+
+Learning Materials:
+"Async IO in Python: A Complete Walkthrough" (Real Python): A comprehensive tutorial covering asynchronous programming with asyncio in Python. Link: https://realpython.com/async-io-python/
+"Python Concurrency: The Tricky Bits" (David Beazley): A video presentation by David Beazley, a renowned Python expert, discussing advanced topics in concurrency and async programming. Link: https://www.youtube.com/watch?v=MCs5OvhV9S4
+"Async Python: The Different Forms of Concurrency" (Nick Coghlan): A blog post exploring different forms of concurrency in Python, including async programming with asyncio. Link: https://pythonadventures.wordpress.com/2012/12/17/async-python-the-different-forms-of-concurrency/
+GitHub Repositories:
+aiohttp: An asynchronous HTTP client/server framework for Python, built on top of asyncio. GitHub Repository: https://github.com/aio-libs/aiohttp
+trio: A friendly and Pythonic asynchronous I/O library, an alternative to asyncio. GitHub Repository: https://github.com/python-trio/trio
+curio: A coroutine-based library for concurrent Python systems programming, including networking, I/O, and more. GitHub Repository: https://github.com/dabeaz/curio
+httpx: A modern, user-friendly HTTP client library for Python with async support. GitHub Repository: https://github.com/encode/httpx
+
+
+Week 8: Software Development Best Practices
+
+Version control systems (Git) and collaborative development workflows
+Writing clean and maintainable code
+Unit testing, test-driven development (TDD), and mocking
+Performance optimization and profiling techniques
+
+Pro Git book by Scott Chacon and Ben Straub: https://git-scm.com/book/en/v2
+Git Documentation: https://git-scm.com/doc
+GitHub Learning Lab: https://lab.github.com/
+Git Workflows and Collaboration: https://www.atlassian.com/git/tutorials/comparing-workflows
+Writing clean and maintainable code:
+
+Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+Effective Python: 90 Specific Ways to Write Better Python by Brett Slatkin
+Clean Architecture: A Craftsman's Guide to Software Structure and Design by Robert C. Martin
+PEP 8 - Style Guide for Python Code: https://www.python.org/dev/peps/pep-0008/
+Unit testing, test-driven development (TDD), and mocking:
+
+Test-Driven Development: By Example by Kent Beck
+pytest framework: https://docs.pytest.org/
+unittest module (built-in to Python): https://docs.python.org/3/library/unittest.html
+Mocking library: pytest-mock - https://pypi.org/project/pytest-mock/
+Performance optimization and profiling techniques:
+
+High Performance Python: Practical Performant Programming for Humans by Micha Gorelick and Ian Ozsvald
+Python Profiling: cProfile and profile modules: https://docs.python.org/3/library/profile.html
+Py-Spy - Sampling profiler for Python programs: https://github.com/benfred/py-spy
+line_profiler - Line-by-line profiler: https://github.com/rkern/line_profiler
+GitHub Repositories:
+
+Clean Code concepts applied to Python: https://github.com/zedr/clean-code-python
+Testing resources and examples: https://github.com/defn/tests
+Python performance optimization examples: https://github.com/benfred/py-spy/tree/master/examples
+
+
+
+Week 9: Deployment and DevOps
+
+Deployment strategies (e.g., cloud platforms, Docker, Kubernetes)
+Continuous Integration and Continuous Deployment (CI/CD) pipelines
+Infrastructure as Code (IaC) using tools like Ansible or Terraform
+
+Monitoring and error tracking in production environments
+
+Book: "Kubernetes in Action" by Marko Luksa - Provides an in-depth understanding of deploying applications using Kubernetes.
+GitHub Repository: Kubernetes Examples - A collection of practical examples and templates for deploying applications on Kubernetes: https://github.com/kubernetes/examples
+Tutorial: Docker Documentation - Official documentation on Docker, covering containerization and deployment: https://docs.docker.com/
+
+
+Continuous Integration and Continuous Deployment (CI/CD) pipelines:
+
+Book: "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley - Covers CI/CD principles and best practices.
+
+GitHub Repository: Jenkins - An open-source automation server with extensive plugins for building and deploying applications: https://github.com/jenkinsci/jenkins
+
+Tutorial: CircleCI Documentation - Comprehensive documentation on setting up CI/CD pipelines using CircleCI: https://circleci.com/docs/
+
+
+Infrastructure as Code (IaC) using tools like Ansible or Terraform:
+Book: "Infrastructure as Code: Managing Servers in the Cloud" by Kief Morris - Explains the concept of IaC and how to use tools like Ansible and Terraform effectively.
+
+GitHub Repository: Ansible Examples - A collection of Ansible playbooks for various infrastructure automation tasks: https://github.com/ansible/ansible-examples
+
+Tutorial: Terraform Documentation - Official documentation for Terraform, a tool for building, changing, and versioning infrastructure: https://www.terraform.io/docs/
+
+
+Monitoring and error tracking in production environments:
+
+Book: "Site Reliability Engineering: How Google Runs Production Systems" by Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy - Covers monitoring, incident response, and error tracking in large-scale systems.
+
+GitHub Repository: Prometheus - A widely-used monitoring and alerting toolkit with a focus on time-series data: https://github.com/prometheus/prometheus
+
+Tutorial: Sentry Documentation - Documentation on Sentry, an open-source error tracking and logging platform: https://docs.sentry.io/
+
+
+Week 10: Advanced Python Topics
+
+Metaprogramming and dynamic code generation
+Python decorators and context managers
+Memory management and performance considerations
+Advanced topics like generators, descriptors, or metaclasses
+Metaprogramming and Dynamic Code Generation:
+
+Book: "Fluent Python" by Luciano Ramalho (Chapter 21 covers metaprogramming): https://www.oreilly.com/library/view/fluent-python/9781491946237/
+
+Blog post: "Python Metaprogramming: A Deep Dive" by Real Python: https://realpython.com/python-metaclasses/
+Python Decorators and Context Managers:
+
+Article: "Primer on Python Decorators" by Real Python: https://realpython.com/primer-on-python-decorators/
+
+Book: "Python Tricks: The Book" by Dan Bader (Chapter 8 covers decorators): https://dbader.org/python-tricks-book
+
+Contextlib module documentation: https://docs.python.org/3/library/contextlib.html
+
+Memory Management and Performance Considerations:
+
+PyMOTW article on memory management: https://pymotw.com/3/garbage_collection/
+
+Article: "Memory Management in Python" by Real Python: https://realpython.com/python-memory-management/
+
+YouTube video: "Understanding Python Memory Management" by PyCon Australia: https://www.youtube.com/watch?v=F6u5rhUQ6dU
+
+"awesome-python" repository: A curated list of awesome Python libraries, frameworks, and resources. Repository: https://github.com/vinta/awesome-python
+
+"python-patterns" repository: A collection of design patterns and idioms in Python. Repository: https://github.com/faif/python-patterns
+
+"fluent-python-notebooks" repository: Jupyter notebooks with code examples and explanations from the book "Fluent Python." Repository: https://github.com/fluentpython/example-code
+
+Book: "Python Cookbook" by David Beazley and Brian K. Jones (Chapter 8 covers generators, and Chapter 8.13 covers descriptors): https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/
+Article: "A Guide to Python's Magic Methods" by Rafe Kettler: https://rszalski.github.io/magicmethods/
+GitHub repository: "Python Meta" by Ionel Cristian Mărieș: https://github.com/ionelmc/python-meta

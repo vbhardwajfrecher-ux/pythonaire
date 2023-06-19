@@ -1,0 +1,52 @@
+Setting up new dialer campaigns:
+Can you walk me through the process of setting up a new dialer campaign?
+What criteria do you consider when setting up a new dialer campaign?
+How do you ensure the dialer campaign is compliant with regulatory requirements?
+Can you describe your experience with setting up different types of dialer campaigns (preview, predictive, etc.)
+
+Configuring IVR:
+What steps do you take to configure an IVR system?
+Can you describe your experience with setting up complex IVR systems?
+How do you ensure the IVR system is user-friendly and effective?
+Have you worked with any specific IVR software or platforms
+
+Outbound list management:
+Can you describe your process for managing outbound lists on the dialer?
+What criteria do you consider when selecting which lists to use for outbound campaigns?
+How do you ensure the lists are accurate and up-to-date?
+What tools or software have you used to manage outbound lists
+
+Configure and troubleshoot GSM/SIP/PRI interface:
+How do you configure a GSM/SIP/PRI interface for the dialer?
+What are some common issues you have encountered when configuring these interfaces, and how have you resolved them?
+Can you describe your experience with troubleshooting GSM/SIP/PRI interface issues?
+What tools or software have you used to troubleshoot these issues?
+
+Taking Backup of Asterisk and SIP servers:
+How do you take a backup of the Asterisk and SIP servers?
+What is your process for ensuring backups are taken regularly?
+Have you ever had to restore from a backup, and if so, can you describe the process?
+What tools or software have you used to take and manage backups?
+Managing and troubleshooting dialer/ IVR /hardware/network/PRI/SIP based issue for dialer:
+How do you approach managing and troubleshooting issues related to the dialer, IVR, hardware, network, PRI, and SIP?
+Can you describe a particularly challenging issue you have resolved related to one of these areas?
+What tools or software have you used to troubleshoot and resolve these issues?
+How do you ensure minimal downtime during issue resolution?
+
+Monitoring Server health and backup procedure:
+How do you monitor the health of the servers running the dialer and IVR?
+What metrics do you track to ensure server performance is optimal?
+How do you ensure backups are taken regularly and are of sufficient quality?
+What tools or software have you used to monitor server health and backups?
+
+Understand and resolve end user issues related to dialer:
+How do you approach understanding and resolving end-user issues related to the dialer?
+Can you describe a particularly challenging issue you have resolved for an end-user?
+What tools or software have you used to troubleshoot and resolve these issues?
+How do you ensure end-users are satisfied with the resolution of their issues?
+
+Coordinate with dialer vendor to resolve outages:
+How do you coordinate with the dialer vendor to resolve outages or other issues?
+Can you describe a particularly challenging outage you have resolved with the dialer vendor's assistance?
+What tools or software have you used to communicate with the vendor and track issue resolution?
+How do you ensure minimal downtime during issue resolution with the vendor?

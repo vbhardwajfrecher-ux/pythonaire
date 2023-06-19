@@ -1,0 +1,46 @@
+Data inputs have:
+
+"Pilot number" as "master_did eg: '1234567890'
+"Initial range number" as "did" eg: '1247879000'
+"End range number" as "did" end eg: '1247879199'
+"is_spam" accept and validate "0" constant value 0
+"is_active"  accespt and validate "1" constant value
+"building" accept and validate "?" could be any number
+"is_used" accept and vaiidate "0" "0" constant value
+SUBMIT Button
+
+
+Tasks:
+
+@Front_end Using HTML,CSS, Javascript 
+Apps END 2 END Task would be to upload did to Database:
+
+1: Take Data inputs from the user in input box follows "".
+	1st entry would be "Pilot number"
+	2nd entry would be "Initial range number"
+	3rd entry would be "End range number"
+	4th entry would be "is_spam"
+	5th entry would be "is_active"
+	6th entry would be "building"
+	7th entry would be "is_used"
+
+
+2: SUBMIT Button 
+
+@Back_end Tasks using Pandas 
+
+	1st opens new sample CSV file with header "master_did, did, is_spam, is_active, buiding, is_used".
+	2nd Pilot number as "master_did"
+	3rd Initial range number as "did"
+	4th End range number as "did", and to fill the did column should be the range from init to end range number.
+	5th is_spam accept and validate "0", to fill is_spam column only zeros should be filled from top to bottom with iterative count of "did" count.
+	6th is_active  accespt and validate "1", to fill is_active column only One's should be filled from top to bottom with iterative count of "did" count.
+	7th building accept and validate "?", to fill building column only consist number provides by user should be filled from top to bottom with iterative count of "did" count.
+	8th is_used accept and vaiidate "0", to fill is_used column only zeros should be filled from top to bottom with iterative count of "did" count.
+	9th Save save it with name as Pilot:'Pilot Number'_BLD:'Building'.csv
+	10th DB connect then upload the CSV File.
+
+
+
+
+
